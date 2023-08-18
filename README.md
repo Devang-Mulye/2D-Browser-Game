@@ -1,1 +1,1 @@
-# 2D-Browser-Game
+# 2d-game
