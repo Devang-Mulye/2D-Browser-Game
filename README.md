@@ -2,7 +2,7 @@
 
 Welcome to the Steampunk Shooting Game! This is a 2D game built with HTML, CSS, and JavaScript where you can immerse yourself in a steampunk world filled with unique characters and exciting shooting action. 
 
-![Gameplay Demo](demo.gif)
+![image](https://github.com/Devang-Mulye/Steampunk-Shooting-Game/assets/84469779/984fd7b5-cad2-477a-9f46-db8a9b269662)
 
 ## Table of Contents
 
